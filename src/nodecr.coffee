@@ -168,6 +168,6 @@ class Tesseract
 							return
 						return
 
-tesseract = new Tesseract
+tesseract = new Tesseract()
 # Exports
 module.exports = tesseract
